@@ -12,3 +12,12 @@ license-files = ["LICENSE.txt"]
 authors = [
 	{name = "Mads O'Brien", email= "maobrien@methanesat.org"}
 ]
+
+dependencies = [
+	"geopandas"
+]
+
+[project.optional-dependencies]
+docs = [
+	"mkdocs-material",
+]
