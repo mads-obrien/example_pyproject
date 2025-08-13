@@ -1,0 +1,4 @@
+site_name: OGIM Database
+site_url: https://mads-obrien.github.io/example_pyproject
+theme:
+    name: material
